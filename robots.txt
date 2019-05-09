@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaevaihifi.excellence-through-accidents.org/sitemap.xml
